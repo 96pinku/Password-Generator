@@ -1,4 +1,5 @@
-import "./Input.css";
+// import "./Input.css";
+import "./input.css"
 import React, { useState } from "react";
 
 function Input({ callInput }) {
